@@ -1,0 +1,28 @@
+_repo: Indian-Legends-of-Minnesota_25794
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Severance, Cordenio A., Mrs.
+    alias: Severance, Mary Frances Harriman
+    deathdate: 1925
+    gutenberg_agent_id: '31580'
+    url: http://www.gutenberg.org/2009/agents/31580
+description: ''
+gutenberg_issued: '2008-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25794'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Folklore'
+- !lcc 'PS'
+- !lcsh 'Indians of North America -- Poetry'
+- !lcc 'E011'
+title: Indian Legends of Minnesota
+url: http://www.gutenberg.org/ebooks/25794
