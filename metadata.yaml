@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31580'
     url: http://www.gutenberg.org/2009/agents/31580
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25794#Indian-Legends-of-Minnesota
 gutenberg_issued: '2008-06-14'
 gutenberg_type: Text
 identifiers:
